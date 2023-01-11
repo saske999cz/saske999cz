@@ -8,15 +8,17 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 <h3 align="left">About me:</h3>
-- 💻 I’m studying at **Da Nang University of Technology**
+<ul>
+  <li> 💻 I’m studying at <strong>Da Nang University of Technology</strong></li>
 
-- 🔭 I’m currently working on **Music Web App**
+<li> 🔭 I’m currently working on <strong>Music Web App</strong></li>
 
-- 🌱 I’m currently learning **ReactJS**
+<li> 🌱 I’m currently learning <strong>ReactJS</strong></li>
 
-- 📫 How to reach me **zed999cz@gmail.com**
+<li> 📫 How to reach me <strong>zed999cz@gmail.com</strong></li>
 
-- ⚡ Fun fact **I like football**
+<li> ⚡ Fun fact <strong>I like football</strong></li>
+ </ul>
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
