@@ -1,3 +1,4 @@
+![logo](https://github.com/saske999cz/saske999cz/blob/main/web-development-Banners.gif)
 <h1 align="center">Hi 👋, I'm Thai</h1>
 <h3 align="center">A passionate frontend developer from VietNam</h3>
 
