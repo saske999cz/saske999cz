@@ -9,7 +9,7 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 <h3 align="left">About me:</h3>
 <ul>
-  <li> 💻 I’m studying at <strong>Da Nang University of Technology</strong></li>
+  <li> 💻 I’m studying at <strong>Da Nang University of Science and Technology</strong></li>
 
   <li> 🔭 I’m currently working on <strong>Music Web App</strong></li>
 
